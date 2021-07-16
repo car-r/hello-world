@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/hello-world/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/github.io/hello-world/static/js/main.5d0f1755.chunk.js",
+    "main.js.map": "/github.io/hello-world/static/js/main.5d0f1755.chunk.js.map",
+    "runtime-main.js": "/github.io/hello-world/static/js/runtime-main.86a3e6ab.js",
+    "runtime-main.js.map": "/github.io/hello-world/static/js/runtime-main.86a3e6ab.js.map",
+    "static/js/2.a0dfe496.chunk.js": "/github.io/hello-world/static/js/2.a0dfe496.chunk.js",
+    "static/js/2.a0dfe496.chunk.js.map": "/github.io/hello-world/static/js/2.a0dfe496.chunk.js.map",
+    "static/js/3.bb2a2554.chunk.js": "/github.io/hello-world/static/js/3.bb2a2554.chunk.js",
+    "static/js/3.bb2a2554.chunk.js.map": "/github.io/hello-world/static/js/3.bb2a2554.chunk.js.map",
+    "index.html": "/github.io/hello-world/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/github.io/hello-world/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a0dfe496.chunk.js.LICENSE.txt": "/github.io/hello-world/static/js/2.a0dfe496.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/github.io/hello-world/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86a3e6ab.js",
+    "static/js/2.a0dfe496.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5d0f1755.chunk.js"
+  ]
+}
